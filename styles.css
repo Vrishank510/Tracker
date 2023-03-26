@@ -276,6 +276,81 @@ h1{
   background-color: #344e45;
 }
 
+#button5{
+    display: inline-block;
+    background-color: #283F37;
+  border-radius: 8px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #f5f2f2;
+  cursor: pointer;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  height: 40px;
+  line-height: 20px;
+  list-style: none;
+  margin: 0;
+  outline: none;
+  padding: 10px 16px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  transition: color 100ms;
+  vertical-align: baseline;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  
+}
+
+
+/* CSS */
+
+
+#button5:hover,
+#button5:focus {
+  background-color: #344e45;
+}
+
+#button6{
+    display: inline-block;
+    background-color: #283F37;
+  border-radius: 8px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #f5f2f2;
+  cursor: pointer;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  height: 40px;
+  line-height: 20px;
+  list-style: none;
+  margin: 0;
+  outline: none;
+  padding: 10px 16px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  transition: color 100ms;
+  vertical-align: baseline;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  
+}
+
+
+/* CSS */
+
+
+#button6:hover,
+#button6:focus {
+  background-color: #344e45;
+}
+
+
 
 #shirt{
     position: absolute;
@@ -310,7 +385,7 @@ h1{
     position: relative;
 }
 
-#button5{
+#button7{
     display: inline-block;
     background-color: #4ce8b2;
   border-radius: 8px;
@@ -342,7 +417,7 @@ h1{
 /* CSS */
 
 
-#button5:hover,
-#button5:focus {
+#button7:hover,
+#button7:focus {
   background-color: #74f1c5;
 }
